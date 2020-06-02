@@ -6,4 +6,5 @@ Contains my personal vimrc
 # Plugins Used
 
 [NerdTree](https://github.com/preservim/nerdtree)
+
 [NerdCommenter](https://github.com/preservim/nerdcommenter)
