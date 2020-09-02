@@ -44,7 +44,7 @@ nmap <leader>w :w!<cr>
 " (useful for handling the permission-denied error)
 " command! W execute 'w !sudo tee % > /dev/null' <bar> edit!
 
-set clipboard=unnamedplus " yank to system register
+set clipboard=unnamed " yank to system register
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => VIM user interface
